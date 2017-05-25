@@ -1,0 +1,1 @@
+# USC-Second-hand-Group
