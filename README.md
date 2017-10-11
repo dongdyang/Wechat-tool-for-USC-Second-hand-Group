@@ -5,25 +5,6 @@ python weixin-robot.py
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# wxBot [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=liuwons&repo=wxBot&style=flat&background=1081C1)](http://github.com/liuwons/wxBot) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=liuwons&repo=wxBot&style=flat&background=1081C1)](http://github.com/liuwons/wxBot/fork) ![python](https://img.shields.io/badge/python-2.7-ff69b4.svg)
-
 **wxBot** 是用Python包装Web微信协议实现的微信机器人框架。
 
 目前的消息支持情况:
@@ -283,22 +264,3 @@ python test.py
     python bot.py
     ```
 
-## 6 类似项目
-
-[feit/Weixinbot](https://github.com/feit/Weixinbot) Nodejs 封装网页版微信的接口，可编程控制微信消息
-
-[littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) 微信个人号接口、微信机器人及命令行微信，Command line talks through Wechat
-
-[Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) 网页版微信API，包含终端版微信及微信机器人
-
-[zixia/wechaty](https://github.com/zixia/wechaty) Wechaty is wechat for bot in Javascript(ES6). It's a Personal Account Robot Framework/Library.
-
-## 7 基于Wxbot延伸的一些项目
-[WxbotManage](https://coding.net/u/vivre/p/WxbotManage/git) 基于Wxbot的微信多开管理和Webapi系统
-
-## 8 交流讨论
-
-问题可以直接开 **issue**
-
-**QQ** 交流群： **429134510**
-# USC-Second-hand-Group
